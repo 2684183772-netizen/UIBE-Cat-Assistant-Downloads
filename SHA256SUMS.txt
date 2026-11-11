@@ -1,0 +1,4 @@
+0acb7b15dda435fc7f03a11d9e8a011d684c9837dfd315610d87e3f5c6c003dd  UIBE Cat Assistant-0.1.0-mac-universal.dmg
+0df27198fe5d9bddbb2c2ab6e10f351036ed45483ed77e53f411216708b6041f  UIBE Cat Assistant-0.1.0-mac-universal.zip
+a19284ee8a55d5027fd7d8a3e33ee933d955d620e227c257460c3523e6d718b2  UIBE Cat Assistant-0.1.0-Setup-x64.exe
+0c9c27dba836bc46eddf4226394434697e9aaceac50d212a9571658e5a9f1fd6  UIBE Cat Assistant-0.1.0-Portable-x64.exe
